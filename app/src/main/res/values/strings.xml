@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">notepad</string>
+    <string name="insert_note_here">Insert note here...</string>
+    <string name="new_page">new page</string>
+    <string name="textview">TextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
